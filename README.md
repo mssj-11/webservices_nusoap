@@ -23,8 +23,8 @@
 
 ##  Solución a posibles errores
 <p aling="center">
-    <img src="2.png">
+    <img src="error.png">
 </p>
 
-### Remplazar el código del archivo `nusoap.php` por el del siguiente repositorio ya que esta versión soporta de la versión de PHP 5.6 - 8.2:
+### Remplazar el código del archivo `nusoap.php` por el del siguiente repositorio ya que esta versión soporta la versión de PHP 5.6 - 8.2:
 [RESPOSITORIO](https://github.com/f00b4r/nusoap/blob/master/src/nusoap.php)
